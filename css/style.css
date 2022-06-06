@@ -106,7 +106,8 @@ html{ scroll-behavior: smooth; }
   width: 100%;
   padding: 30px 25px ;  
   background: #3B008D;  
-  color: #fff; 
+  color: #fff;
+  position: absolute; 
    
   margin: 0!important;
   }  
